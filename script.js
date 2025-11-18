@@ -1,5 +1,5 @@
 // =============== CONFIGURACIÓN GNEWS ===============
-const API_KEY = "80abc36255ec39fbb8779e5b957cf2b8"; // ← pega tu clave
+const API_KEY = "80abc36255ec39fbb8779e5b957cf2b8"; 
 const API_URL = `https://gnews.io/api/v4/top-headlines?country=mx&lang=es&category=general&max=30&token=${API_KEY}`;
 
 
