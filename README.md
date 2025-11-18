@@ -49,7 +49,7 @@ Para obtener noticias en español se utiliza la API de **GNews**, con los parám
 - `max=30` → Límite de resultados  
 
 
-https://gnews.io/api/v4/top-headlines?country=mx&lang=es&category=general&max=30&token=80abc36255ec39fbb8779e5b957cf2b8
+https://gnews.io/api/v4/top-headlines?country=mx&lang=es&category=general&max=30&token=TI_API_KEY
 
 ---
 
