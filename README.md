@@ -48,12 +48,8 @@ Para obtener noticias en español se utiliza la API de **GNews**, con los parám
 - `category=general` → Noticias generales  
 - `max=30` → Límite de resultados  
 
-Ejemplo de URL usada:
 
 https://gnews.io/api/v4/top-headlines?country=mx&lang=es&category=general&max=30&token=80abc36255ec39fbb8779e5b957cf2b8
-
-yaml
-Copiar código
 
 ---
 
@@ -71,9 +67,7 @@ Debido a políticas de CORS de GNews, se debe ejecutar desde **un servidor local
 
 ---
 
-## Capturas recomendadas
-
-Puedes incluirlas en tu documento del reto:
+## Capturas 
 
 - Lector de noticias funcionando.  
 - Código JavaScript con la función `fetch`.  
@@ -99,9 +93,9 @@ Mensaje mostrado:
 
 ## 👤 Autor
 
-**Nombre:** (Jorge Ivan Ramirez Laredo)  
-**Matrícula:** (24001072)  
-**Correo:** (jirl0715@gmaikl.com)
+**Nombre:** Jorge Ivan Ramirez Laredo
+**Matrícula:** 24001072  
+**Correo:** jirl0715@gmail.com
 
 ---
 
